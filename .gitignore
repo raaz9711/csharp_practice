@@ -1,0 +1,74 @@
+S# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.swp
+*.swo
+*~
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider specific files
+.idea/
+*.sln.iml
+
+# Build Lock files
+packages.lock.json
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Test Results
+TestResults/
+
+# Local environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# dotnet user secrets
+secrets.json
+
+# User-specific Visual Studio settings
+.vscode/settings.json
+
+# NuGet v3's project.json files makes it messy to allow both commit the lockfile and allow updates with one command or the other.
+project.lock.json
+project.fragment.lock.json
